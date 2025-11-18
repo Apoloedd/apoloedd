@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://TU-GIF-DEL-PLANETA-AQUI.gif" alt="Planeta Tierra girando" width="140" />
 
-<!--
-**Apoloedd/apoloedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hola mundo! 🌎</h1>
 
-Here are some ideas to get you started:
+  <p>
+    Bienvenido a mi universo de código.<br />
+    Como diría Visual Studio Code: <strong>Hola mundo!</strong> pero con estilo.
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Un pequeño snippet al estilo Visual Studio Code
+
+```ts
+function main() {
+  console.log("Hola mundo! 🌎");
+}
+
+main();
